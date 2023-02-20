@@ -15,4 +15,4 @@
   + 2단이 가능합니다
     - 이렇게요
     
-!I귀여운 고양이I!(./images/cat.gif)
+!I귀여운 고양이I!(./images/cat.jpg)
